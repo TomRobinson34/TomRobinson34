@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TomRobinson34 in Atlanta, GA
-- 👀 I’m interested in everything python. 
-- 🌱 I’m currently learning Flask and Bootstrap.
-- 💞️ I’m looking to collaborate on web development, app development using python.
+- 👀 I’m interested in everything php - looking at realtime chat app functionality. 
 - 📫 How to reach me... 
 
 <!---
